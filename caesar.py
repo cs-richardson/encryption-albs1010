@@ -8,7 +8,7 @@ of times depending on the number output.
 import sys
 
 alphabets = "abcdefghijklmnopqrstuvwxyz"
-up_alphabets = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+up_alphabets = alphabets.upper()
 ciphertext = "ciphertext: "
 
 
